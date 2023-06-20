@@ -1,5 +1,7 @@
 WILL CHATGPT RENDER THE EDUCATED CLASS OBSOLETE? 
+
 By Noah Morris 
+
 Doubtful.
 
 ChatGPT is not the first large-scale AI neural network to attempt to mimic and engage in human-style conversation, 
