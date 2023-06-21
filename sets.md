@@ -1,5 +1,14 @@
 # OPERATIONS ON SETS
 
+All of this assumes your set has no repeated elements. If you aren't sure, you can use this.
+
+    > removeRepeats :: [Integer] -> [Integer]
+    > removeRepeats [] = []
+    > removeRepeats (a:as) = if a `elem` as then removeRepeats as else a : removeRepeats as
+
+    ghci> removeRepeats [1,1,1,2,2,3,4,5,3,5]
+    [1,2,4,3,5]
+    
 To find the intersection of two sets we extract all those elements from as that are also in bs.
 
     > intersection :: [Integer] -> [Integer] -> [Integer]
@@ -9,11 +18,10 @@ To find the intersection of two sets we extract all those elements from as that 
     ghci> intersection [1,2,3] [2,3,4]
     [2,3]
 
-To find the union, we add all those elements that are in bs but not as to a.
+To find the union, we concatenate our lists, then remove repeats, then sort.
 
     > union        :: [Integer] -> [Integer] -> [Integer]
-    > union as [] = sort as
-    > union as (b:bs) = if b `elem` as then union as bs else union (b:as) bs
+    > union as bs = sort (removeRepeats (as ++ bs))
      
     ghci> union [1,2,3] [2,3,4]
     [1,2,3,4]
@@ -39,15 +47,6 @@ The disjunction is the difference of the union and intersection.
     ghci> disjunction [1,2,3] [2,3,4]
     [1,4]
     
-All of this assumes your set has no repeated elements. If you aren't sure, you can use this.
-
-    > removeRepeats :: [Integer] -> [Integer]
-    > removeRepeats [] = []
-    > removeRepeats (a:as) = if a `elem` as then removeRepeats as else a : removeRepeats as
-
-    ghci> removeRepeats [1,1,1,2,2,3,4,5,3,5]
-    [1,2,4,3,5]
-
 These functions will also be useful later.
 
     > len :: [Integer] -> Integer
@@ -100,7 +99,13 @@ numbers from the linear congruential generator.
     
     ghci> permute 65273853 9
     [9,2,8,1,5,4,7,6,3]
-    ghci> permute 65273 9   
-    [8,5,7,4,9,6,2,1,3]
+    ghci> permute 325321 4
+    [1,4,3,2]
     ghci> permute 653 9  
     [6,4,8,2,3,7,1,5,9]
+    ghci> permute 23198953 50 
+    [1,5,37,42,46,39,10,48,40,33,29,15,2,16,38,32,
+     8,21,34,7,6,18,23,12,31,24,47,30,3,26,45,9,14,
+     22,28,44,27,17,36,20,11,49,19,13,25,4,43,41,35,50]
+    ghci> len (permute 3248392 100)
+    100
