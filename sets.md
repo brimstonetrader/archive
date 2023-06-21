@@ -65,10 +65,19 @@ These functions will also be useful later.
     [10,9,8,7,6,5,4,3,2,1]
     
     > lcg :: Integer -> Integer -> [Integer]
-    > lcg _ 1  = [1]
-    > lcg r i = do 
-    >   let n = inst r 
+    > lcg _ 1    = [1]
+    > lcg seed i = do 
+    >   let n = inst seed 
     >   (((n `mod` i)+1) : (lcg n (i-1)))
+
+    ghci> lcg 5641421 9
+    [3,4,6,4,3,4,1,2,1]
+    ghci> lcg 235234 9 
+    [5,1,1,1,3,1,2,1,1]
+    ghci> lcg 234 9   
+    [2,1,1,5,5,1,3,1,1]
+    ghci> lcg 2331414 9
+    [5,5,7,5,5,1,3,1,1]
 
     > inst :: Integer -> Integer
     > inst r = ((5397*r+7901) `mod` 65536) 
