@@ -1,0 +1,359 @@
+(tbh)
+
+# UFO
+
+
+A charismatic, well-dressed man walks into a reasonably upscale hotel, over a hundred dollars a night, 
+but not two hundred. He asks to book a room until the 15th. The lovely teen manning the front desk 
+cheerfully asks the man if his trip is for “business or pleasure”, to which the man doggedly replies 
+“I see no difference between the two”, strangling the conversation in its crib before it has time to 
+grow awkward, or unpleasant. The teen silently hands him a room card, and he heads upstairs, room 213. 
+He swipes his card on the door handle and walks in, finding a young man’s dead body on the ground. Well, 
+maybe he’s young. about five foot even by his estimation (which is pretty good), why, these days you could 
+find grown corporate business men that height! tycoons, barons, and et cetera! what a wonderful world we’ve 
+created for ourselves, the man thinks to himself as he screams. he stops screaming. that won’t help any. 
+Right now, what he wants more than anything is information. he presumes that the still, humanlike thing 
+under a sheet is a dead body, and he assumes from his own glum, phallocentric worldview that this body at 
+least at one point identified as male, but the great plethora of modern alternatives occur to him. he 
+approaches the form and is met by a putrid stench, pulling the sheet back a bit further revealing greasy, 
+bloodstained hair. he figures, at this point, that he’s gathered enough evidence, and elects to head back 
+to the front desk, to make it the teen’s problem instead. 
+
+He gets to the front desk and informs the teen of the body.  “Whaaaaaat??”, the teen asks exaggeratedly, 
+to which the man reiterates that, “Yes, finding him was very traumatic for me and I would appreciate it 
+if you or someone under you would remove it before I go back to the room." The teen looks around as if 
+he’s holding in a joke, and says, “We’ll get right on that. You can head back to your room in thirty. 
+Sorry for any inconvenience.” The man lightens his furrowed brow and rereads the Nine Inch Nails 
+autobiography in the courtyard, giving the teen a courtesy extra 5 minutes on top of the 30 he had asked 
+for, partially of kindness and partially of becoming engrossed in the truly grotesque imagery, of Trent. 
+The man goes back to his room, swipes the key, and finds another dead body, of similar height and build 
+to the teen, under an identical sheet right next to the pre-existing dead body, which had not been moved 
+or altered. He pulls open the second sheet fearing the worst, and finds the teen with a face frozen in a 
+look of sheer terror. the teen bellows, “Ahhh!-ahh...-ha-ha!”, breaking into a Muntzian laugh at the 
+sheer motherfucker before him. At this, the man begins blowing hot air from his nostrils, glowing red 
+like a bull. “Has this whole damn thing been one big joke at my expense?!”, he asks the teen, believably, 
+to which the teen unfazedly breaks out of his laughter to say, “No, just that part. We *should* probably 
+get rid of this dead body. Will you help me carry it down the stairs?" The man, at a loss, does as the 
+teen asks, and the two of them carry the body out of the hotel. 
+
+The man is at first afraid that someone might notice the three of them, but finds that most people don’t 
+really care. The hotel has a cosmopolitan, carefree atmosphere, and most people are too busy working or 
+relaxing to notice. Those that do seem to appreciate the greyer areas of human morality, coyly putting 
+fingers to their lips, winking, expressing not quite support, but a tacit empathy. The most that the 
+three have to deal with is a stern glare from a persnickety dyed-hair woman, which amounts to no tangible 
+confrontation or difficulty. Once they are outside, the man asks the teen, “Where do we go now?”, to 
+which the teen replies “Uhh… do you have a car, or, uh… Venmo?" Luckily for the trio, the man’s car is 
+immaculate, and parked very proximately. The teen opens the door. 
+
+“Wow, this is immaculate,” says the teen. “Smells like saffron." 
+
+“Yeah, you know, I work hard, and I like my vehicle to reflect that”, says the man, who is a bit worried 
+that the stench of death might overpower his carefully cultivated aromatic signature. “Let's rock and 
+roll. Where are we headed?" the teen replies “Oh, I’ve got a friend in the bog who might be able to help 
+us out a little bit. Just take the highway to Exit 88, and then I'll tell you what to do.” This, to the 
+man, is a little annoying. He has a lot planned for the day, and having to fit this in will strain some 
+of it. They are currently at exit 97, which means that this drive will take at least 45 minutes, both 
+ways. The man is pretty sure that neither of his passengers will be supplying gas money, but he was 
+always a bit “socially awkward”, generally having a hard time telling people no. Besides, they were only 
+a couple minutes away from the exit. As they pull toward the on ramp, the teen spots a hitchhiker, 
+noticing his particularly wet grime and steely glare, and takes him to be a bog-man. Figuring the reward 
+outweighs the risk, he rolls down the window as the car comes to a halt at the yield sign, shouting, “Hey 
+asshole! Are you headed to the bog?” He nods fitfully, and before the man can voice any concern the 
+hitchhiker hops into the seat opposite the dead body. 
+
+“Big and tall, thank you all,” says the hitchhiker, “I’ve had my thumb out an hour now and you lot are 
+the first to even notice me. What brings us to the bog?" The teen eagerly replies, “Oh, you know, this 
+summer I’m working an internship as a bellhop. Do you live out there?” The hitchhiker alludes that he 
+does with a wide-eyed look of realization, but cuts himself off before he can say anything interesting 
+and begins listening to something that sort of resembles downtempo tv static, through BlueTooth 
+headphones that no one noticed until they begin screeching, at a moderate volume to those in the front 
+and surely deafeningly to those with ears full of them. The hitchhiker is out of communication, about as 
+still as his seatmate, who he gave a mild half-greeting to on entry and no further consideration. The 
+teen turns to the man. “Alright, now we’re alone. If you want to touch base, now would be the time." The 
+man thinks of the knowns and unknowns of the situation. This teen seems, in the grand scheme of things, 
+not very knowledgeable. “What useful information could he really offer?”, he wonders. the man decides to 
+give the teen a test, to see if his hypothesis is correct. “Who is the current house minority leader?" a 
+perfect question, in the man’s eyes, one that correlates immediately to one’s degree of deference toward 
+society. The teen, as the man suspected, gives a very wrong answer. The man isn’t even sure who “Gucci 
+Mane” is, but he doesn’t sound like any politician he’s ever heard of. The man smiles smugly, now bearing 
+proof of the extent of his knowledge advantage over the teen. he decides to play his favorite podcast 
+instead, as surely a pleasant, reasonable conversation could be heard in this car even if it wasn’t being 
+physically had in it. He had been listening to the podcast earlier that day, so playing it now is as 
+simple as pressing a button! He taps the play button on his car stereo, and without even touching his 
+phone the machine whirrs to life. 
+
+“Hi everyone, welcome to Talking Points, i’m your host Katie-”
+
+“Oh, banger, dude, this podcast smacks COCK, dude,” says the teen, rambunctiously. The man is concerned. 
+“is this the one where they talk about Bernie?” The man frantically switches to the radio, knocking shit 
+over and making a mess of the console, a collection of actions in response to which the teen says, 
+“You’ve gotta go back man. I've gotta know whether or not I need to vote this time." The man suddenly 
+feels as if he is being held hostage. Here he is, watching the podcast he loves get trampled upon by a 
+troglodyte. He had initially put it on, so he couldn’t turn back now. He didn’t want the teen to not 
+vote, obviously. To encourage that even tacitly would be tantamount to getting a pro-faschism bumper 
+sticker, which went against every fiber of the man’s being. Moreover, what if not playing the podcast 
+offended the teen? Does he even care if he offends the teen? The man lingers on this bout of anxiety for 
+the rest of the drive as he begins to be lulled into a manic highway hypnosis. 
+
+As they approach their exit, the man taps the hitchhiker, snapping him out of an induced, frenzied rage. 
+The hitchhiker opens a window and tosses the closest object to him, in this case a lightly used book of 
+sudoku puzzles, out the window. 
+
+“Yeet!”, he announces. 
+
+The man grimaces, and says, “Where do you want me to let you off?”
+
+The hitchhiker replies “Uhhhh… here” and does a tuck and roll maneuver out of the car as it blasts down 
+the off ramp around 45 miles per hour. The man screeches to a halt, gets up out of the car, and shouts 
+“Are you okay?!” The hitchhiker, at this point, had already gotten up and begun to approach the nearest 
+house, a brutalist, experimentally designed home with a six car garage and hundreds of Ring doorbells. He 
+knocks on the door and is immediately enveloped in a group hug with twelve or thirteen dudes that look 
+just like him. The man, who saw all of this, smiles a soft smile, and gets back in his car, which is now 
+causing a line of, at this point, maybe 50 cars to form on the off-ramp. “Did he make out alright?”, asks 
+the teen, making a deeply flawed attempt at “Bambi eyes.” The man hugs the teen very tenderly, and says 
+“I think so, sunshine. I think so.” The teen wrestles his way out and sprays himself silly with some sort 
+of disinfectant spray, and petulantly gives the man the “silent treatment” for a moment. 
+
+“So which part of the bog are we going to?”, asks the man, cutting off the teen’s attempt at the silent 
+treatment far before it could be remotely construed as offensive.  “Ah, just, uh, take the next right. 
+After this one- Chateau Drive. That's it. Then in five minutes you can turn onto her street.” This makes 
+sense to the man. He was always good at following instructions. Despite the teen’s rebuff, the man feels 
+rejuvenated at the hitchhiker’s good fortune. The podcast has ended, a very short one at only 30 minutes, 
+and he is let to finally sit in silence. He looks around at the lush greenery. there's something 
+devastatingly beautiful about a bog; the man is truly entranced. He imagines what it must be like at 
+night here, why, this far out from the city you could see some serious stars! He imagines himself retired 
+here, one day, blearily gaming the days away with the knowledge that he had earned it. Ah yes. Once a 
+year, on Thanksgiving, which was always the man's favorite holiday, his entire family line, massive in 
+both numbers and physical size, would come down to his pleasant, yet gigantic bog-side cottage. He’d 
+prepare an entire cow, several sides, and perhaps even a salad. The family, right here, on a back-yard 
+patio table, would eat a meal so opulent that his imagination struggled to fully capture it. They’d play 
+in the yard, which would be messy, but he would always make sure to keep a pack of wet wipes around, for 
+the kids. This fantasy, for the man, is serene, and he could spend another hour in it, but his turn is 
+coming up. 
+
+“Here, right here”, says the teen, a little too late, forcing the man to violently swerve onto what seems 
+to be a one lane road. They putt-putt along for about 45 more seconds, and come upon a revolting hut. The 
+teen eagerly gets out of the car before the man, waiting by his door impatiently, and then the two grab 
+the body and bring it to the door. The man utilizes the decrepit door knocker, giving two powerful and 
+three dull knocks, before the door swings open, and the two are greeted by a very well-dressed, somewhat 
+alternative woman in her 50s. 
+
+She dryly looked over the body, and said that “I don't suppose you acquired this one the same way as the 
+others.” The teen made a slight shrug motion, but the woman didn't seem to notice it or care, as she 
+suddenly lifted the body up out of the man and teen’s hands, deft, as if it were made of styrofoam or 
+some other very light material. She has a wall-sized machine in her kitchen that sort of resembles an 
+upside down french press, with a wide control panel that seemed quite well worn. 
+
+“What type of cash are you holding?”, asks the woman, to which the teen eagerly removes 31 dollars from 
+his wallet. “I'm not looking for anything fancy unless he’s looking to throw in”, says the teen, as he 
+again tries a variant of “Bambi eyes” that more than anything communicates a sort of looming, psychedelic 
+fear. This look, while evocative, doesn’t move the man where it matters (his wallet), and the woman 
+scoops up the $31. “I’ll give it a bath, too, for that extra dollar,” says the woman, as she sets to work 
+tossing, literally tossing, the body into the machine and banging out a hypnotic little rhythm on the 
+control panel, a fiendish, jazzy little thing. This is the first time that the man actually sees the full 
+extent of the body, and, despite it being very traumatic and scary, the man can’t help but notice how 
+similar the body is in appearance to the teen. They have sort of similar facial structures, similar 
+complexions and haircuts, and oddly enough, the same exact outfit, a get-up similar to a color-reversed 
+fred from scooby doo, black collared shirt with a yellow collar and pants, and of course a massive green 
+ascot. The only noticable difference, outside of the teen appears alive, is that the body appears to have 
+incurred a massive sum of age. The body does not remain in one piece for very long, as it soon begins 
+spinning around rapidly, jolted and torn apart with each note of the woman’s song. In the larger, bottom 
+portion of the machine, a large nozzle begins squirting out some of the dark reddish body-fluid, a more 
+viscous blood, if you will, into a clear mold which, as it begins to fill, seems to resemble how the man 
+would assume the body looked at its peak. At the instant the mold fills, the machine beeps a satisfied 
+beep, and immediately does a massive blast of water, banging the new body all up out and over the thing 
+like a god-damned crash test dummy. There comes a second, similar beep, and the machine door opens, to a 
+new body, somehow wearing clothes now. This is not the same get-up as earlier, but rather an obnoxious, 
+“streetwear” look with a neon, simplistic color scheme and no text except for across his headband, which 
+reads “lifestyle." 
+
+The body walks out and does a cheery little jig, singing “eh-de-de, eh-youde-de, eh-dedededede-de-dede." 
+
+The teen gives a muted cheer, says “Nice fit!”, and the woman looks on with a reserved smile, golf 
+clapping. 
+
+The refreshed body theatrically straightens itself up, still quite short even after this process gave it 
+a couple of inches, and says, “Well now that we’ve gotten through all that what-what pleasantries all, 
+surely lot-lot satisfied with me ready to **LUNGE**”, it pretends to stab itself through with a knife and 
+fall softly to the ground, “**Lunge ***through*** me** and ***release*** me from this, this... ***wretched mortal coil**, 
+why, whatsit, why, ***FUCK ME UP***!!" the others stand around the body as it lays on the ground, tongue splayed 
+out and body curled up imitating a dead rat. “Send me back down there, yeeaaah, send me back down,” it 
+says, relatively reservedly.
+
+The man, perturbed, hollers “Why, do it yourself you lazy dope!” At this point, he had done one too many 
+favors for the day. 
+
+“Oh, ha ha, oh. Nice attitude, but that’s not gonna happen.” began the woman, as she pushes her glasses 
+up the bridge of her nose. “Any homunculaic process is gonna include a simple anti-suicide failsafe. 
+Aside from the mandrake and moldy ergot rye, oy, that's the most essential thing, no, that’s not gonna 
+happen.” 
+
+The man understands, nodding and then asking, “Well, what do you expect him to *do* then, if he can’t 
+die?” 
+
+The woman looks at the man, then through him, making him forget the question and nervously start looking 
+at his phone. There were no notifications, but if he slid up he was able to look at the various alerts 
+and messages that had accumulated since he’d last taken out the digital garbage. It is mostly ads, he 
+finds, with a couple of emails he really didn’t feel like bothering with. He looks back up, dandy, and 
+tries to think of a new thing to say, hoping this little break would bring him further insight. The body 
+looks up expectantly at the man, so he asks if it would need to be taken home soon, to which the body 
+enthusiastically nods. With that, the three visitors leave the woman’s home (which is well furnished) and 
+return to their vehicle. 
+
+“Alright, head count”, said the man. “One,” he begins. 
+
+“Two,” replies the teen. 
+
+“Three,” the body pipes up from the back, in response to the teen. 
+
+“Four!” says Laurence. 
+
+The man begins screeching as if there will be no tomorrow. He did not expect an unexpected visitor today, 
+and being faced with one gives him a righteous scare, which ripples through him like it’s radioactive. He 
+frantically yanks his keys out of the ignition, and begins to point the pepper spray on the other side of 
+the chain towards Laurence. To this, Laurence retorts, “Hey, man, don’t. I’m actually really friendly, 
+and I’m only here to help you guys out.” 
+
+The man doesn’t holster his weapon, but he does stop moving, continuing to glare at Laurence, allowing 
+him the podium. “Listen, if there’s one thing I hate, it’s gotta be failure. I want to make sure that you 
+guys accomplish all of your goals, and I’m gonna do that by promoting hard work, resource management, and 
+of course economics." The man looks sternly at his fellow passengers. The teen appears to be sleeping, 
+curled up catlike with his arms as pillows, and the body is very interested in what Laurence has to say, 
+as one can plainly tell by the way that it points at Laurence, cavalierly and jovially, with two index 
+fingers that are wildly, disproportionately long for its frame. The man, despite his best efforts, too 
+finds himself drawn into Laurence’s proposal. 
+
+He lowers his weapon and asks, “So what brought you to me?” 
+
+Laurence replies, cheerily, “LinkedIn!" The man relents. That checks out. He passes Laurence the aux, and 
+begins driving. (By the way, Laurence has a wonderful taste in music, here beginning with some 
+life-affirming Rocksteady courtesy of Carlton & The Shoes, before progressing to modern, 
+mildly-psychedelic Jazz-rap, and ultimately some cuts off of Laurence’s own album, which at this point 
+only existed on his phone, as an mp3 file filder. His music took clear aesthetic influence from the 
+preceding genres, and others, with an underlying structure reminiscent of early indie rock, artists such 
+as Phlegm, and Scrotum.)
+
+“Wow,” says the teen as the group of four get off the highway, enthusiastic after laurence’s new song *Go 
+For the Juggler* reached its satisfying crescendo, “I can really hear the Scrotum influence.” 
+
+Laurence makes an “Oh, stop it” gesture, but no one sees. “You know, I think a lot of my music takes 
+clear Scrotum influence, not out of some sort of respect or love I have for the group (though that is 
+also a factor), but of a competitive instinct that tells me that their work is flawed and I can improve 
+upon it.” The man nods, sucking on a tootsie pop that Laurence had given him about 3 minutes earlier. 
+Laurence takes a look, around, and cheerfully asks, “So what do you guys wanna do after this?” The four 
+all look at each other, a moment which nearly causes them to run off the road directly into a badly 
+placed Red Wings. 
+
+As the man reasserts control of his vehicle, the body suggests, facing the teen but directed towards all 
+present, “Well, now that I can’t stay in room 213 due to that ‘Death Do Us Part’ clause, would you mind 
+getting me set up in its inverse ‘till I get back on my feet again?” 
+
+The teen goes blank, then splenetic. “What the fuck did I tell you (inhuman) about the inverse rooms? You 
+(inhuman) can’t live there if you’re powered by conventional blood. I mean, minimum you (inhuman) are
+gonna get turned inside out.” 
+
+The body taps its head and persists, “Ahh, but you see, the homunculaic treatment probably hyperized all 
+of my static enzymes, letting me persist in non-euclidean spaces indefinitely!" 
+
+The teen looks on, incredulous, saying “You (inhuman) fucking brutal nitwit. Demented piece of shit. None 
+of that has anything to do with it. The inverse rooms are highly regulated, and any orthogonal movement 
+gets detected by the motherfucking! The yocto sensors! You (inhuman) will get essentially boiled alive in 
+air, nope, can’t let you die." 
+
+The body snaps its fingers and goes “Ooh…”, as the teen looks on smugly and finishes his thought. 
+
+“Don’t worry. I wouldn’t have brought life into the world without some sort of plan." He opened the notes 
+app on his phone, which had two checked off items: “Go to work” and “Get high,” and two that were as of 
+yet unchecked: one was written in emojis, and the other was “Get fucked up!" The teen looks to Laurence, 
+as the car comes to a stop in the parking lot, unfortunately, much further from the entrance than the 
+spot that the car had utilized before. 
+
+Laurence gives it a little bit of thought, and snaps his fingers. “Eureka!" He waits a little bit until 
+the others begin to pay attention to him, and continues. “I've got a couple of friends who are hired for 
+CodeWorks. Do you (inhuman) have any CS experience?” This shorthand might have seemed harmless, it 
+certainly did to Laurence, but the body instead assumed that CS stands not for computer science, a 
+discipline it has no experience or interest in, but instead Corn Syrup, a belovable product that it and 
+every other American finds tasty, plentiful, and nutritious. 
+
+“I have an intense passion for CS, and while my resume may not reflect it, I've been utilizing it for 
+basically my entire life." Laurence looks trustingly through, not at, the body. “I’m gonna take a chance 
+on you,” he declares, patting the body once on the back, finding it to be covered in some sort of oil, 
+landing softly and slipping off in a way that makes Laurence wish that he too had brought some of the 
+teen’s disinfectant spray, which Laurence recognizes that he stands a snowball’s chance in hell of 
+snagging a squirt of. 
+
+It has now been about two minutes since the four parked, and the man finally decides to make the first 
+move, getting out and locking the doors by instinct. This is a bad move, as once the door comes 
+reunlocked due to one of his passengers trying to get out, the panic alarm begins to blare, alerting the 
+local authorities. The closest is a miniature ambulance, who greets the alarm with a siren and arrives at 
+the scene within about 20 seconds. The driver of the ambulance gets out and approaches the passenger-side 
+window aggressively, brandishing a massive rifle. “Are you the owner of this vehicle, sir?”, asks the 
+overworked twenty-two year old EMT. 
+
+“Yes, sir, this is my car, I can show you the registration-." 
+
+“Hey! I am not a cop, that trick doesn’t work on me”, the EMT replies. At this point, the man is out of 
+the car, and the body has begun to exit. The EMT immediately and unabashedly shoots the body, which falls 
+with a thud somewhat dampened by its oily skin and clothes. “Hey, you can’t do that!”, says the man. 
+“You’re supposed to be saving people, not vice versa!” The EMT smirks, keeping the rifle upright, and 
+says, “Ha. No offense, but I've been doing this five years now. I started in high school! I know a 
+homunculus when I see one. Believe me, it’s a lot happier this way. I could get you all in a lot of 
+trouble for this, but fortunately for you lot I couldn't be bothered.” The EMT gets back into the 
+ambulance and drives off, doing a couple donuts, blaring bass-boosted Boomer Punk at something like 120 
+dB, peeling out onto the 45 mph road already speeding. Laurence, recognizing that the coast is clear, 
+exits the vehicle. 
+
+“I am so, so disappointed in the both of you”, the teen says to the man and laurence. 
+
+“Wha- what did *I* do?”, they both ask simultaneously, at this point focusing more on being blamed for 
+something than the shooting that had just occurred. 
+
+The teen responds, regarding the man and Laurence respectively, “Obviously I’m disappointed in you 
+because you caused this to happen, you blasted that alarm and let basically all of the nearby medical 
+workers know that we were carrying. but you, Laurence, sitting idly by, not doing a damn thing. You both 
+will be punished, but first, can you both help me out with this?” At first the man chuckles, amused at 
+the task ballooning from a two-man job to a three-man job so quickly. However, as he begins to attempt to 
+lift the body, he finds it about twice as heavy as before, and is extremely grateful for Laurence's help. 
+The three bring the body in, again facing no recourse, and the leading teen brings the group to the 
+elevator and unlocks a latch in front with a massive key, allowing a down option which he utilizes. This 
+elevator is a little anachronistic. it plays the classic “elevator music”, a twee little song made up of 
+little hos and hums and bullshit like that. The group finds themselves on floor -2, and the teen makes a 
+beeline for -213, which is pretty close. He outruns the man and laurence, sliding the, to reiterate, oily 
+man out of their clutches and running into the room, which the man and laurence are unfortunately unable 
+to see inside of, only noticing a deep orange glow radiating from behind the door. The two wait a couple 
+of minutes before they begin trying to leave. The elevator is inaccessible without the teen’s big-ass 
+key, so it seems to the man that the only option would be the stairs. As the man enters the stairwell, 
+Laurence reaches out, mildly, but does not earn the man's attention, the big metal door slamming itself 
+between the man and Laurence with a thick scrape, like 1961 in Berlin. The man looks around. He is at the 
+bottom of an off-white desolate stairwell, undergirded by the faint fuzz of some sort of device. If he 
+wanted, he could go up under the last couple stairs and hide, but he'd long since repressed such childish 
+urges. 
+
+The man immediately starts trying to pull the door back open, but finds it won’t budge. It displays the 
+number “623466” loudly across the front, which the man has no trouble committing to memory. He sighs. It 
+appears that four sets of stairs stand between him and the outside, assuming the existence of a “zeroth” 
+floor. He begins climbing, singing a song, carrying on. After four sets, he resumes yanking on the door, 
+and again finds it again totally wedged shut. He notices that the number, “623466”, has not changed. At 
+this point the man becomes scared. He races back down four flights, no longer singing, and finds that 
+this section no longer marks the end of the stairwell; in fact, it seems that the steps just continue 
+down for as long as his eyes can see. The man stops to consider, and decides that it is easier to climb 
+down stairs than up them, and so he resumes his trudging. his phone remains stuck at 6:37, so he has no 
+way to tell how long he remains walking. After about 20 sleeps, his hearing starts to go. His senses of 
+taste and smell, as well as emotions of hunger, yearning, anger, joy, and anomie, had begun to fade 
+immediately but were at this point long gone. The number on the door still had not changed, and remained 
+wedged. Usually a sense not in use starts going after a week and a half, and sure enough eventually the 
+rhythms of this exercise become so rote that sight, touch, and balance are more afterthoughts than 
+anything, smoothed out in no time at all, really, like a stone in a river. After about 50 sleeps, the man 
+is a husk, carrying out the same action over and over with no sensory perception or critical thinking 
+capabilities. He is no longer aware of the door, or anything; every aspect of his brain has rotten away 
+from unuse. The last bastion of his humanity, something not stored within his brain, left him soon after. 
+The man, fetal in the corner, sits still and silent. The number on the door shifts to “623467”. 
+
+Laurence is fortunately let upstairs by the teen a soft thirty seconds, his time, after the man left. 
+Within the next year, he wins five different awards for his work in synergistic media solutions and 
+teamwork compatibility management, and the year after becomes a household name for his hit song “Bumpin’ 
+(No Stress)”. He spent very little time considering the man or the body, but ultimately runs into the 
+teen in line at a Starbucks in Austin, Texas, when the teen is 35 and laurence is 50. The teen chats 
+Laurence up for about a minute, they take a picture together, and part ways. Laurence, on going outside, 
+is shot to death by an EMT wearing a VR headset, and dies writhing on the ground. The teen, at this point 
+a man himself, sips from his cup of raw, unblemished sugar syrup and smirks. “Ain’t Life a Bitch.” 
