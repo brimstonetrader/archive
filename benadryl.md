@@ -41,7 +41,7 @@ montage sequence, and he didn’t so much as snicker. sam smith cautiously start
 oddly-shaped remote, eventually settling on something tame and regular, like “Squid Games." Brayden 
 couldn’t have noticed. He was swimming through a thick molasses, and it felt like his muscles and bones 
 had been unjected through something hypodermic. There was a figure in the corner of his vision that 
-resembled the shadow of an official 50’s style man in a hat. Actually, brayden wasn’t functioning on a 
+resembled the shadow of an official 50’s style man in a hat. Actually, Brayden wasn’t functioning on a 
 symbolic level. there was a man in a hat in the corner of his vision. Brayden was enraged, at the man as 
 well as the highfalutin way of life that he represented, and started trying to push his way toward him, 
 getting weighed down in all directions by some quantum, highly static gravity. He fell to the floor, in 
