@@ -1,4 +1,6 @@
-ducter
+(tbh)
+
+# ducter
 
 Gabriel had three human friends who never left his side, always wearing duckling costumes complete with
 authentic feathers and beaks that despite their constant presences never smelled, and communicated 
