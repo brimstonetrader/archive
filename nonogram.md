@@ -8,7 +8,7 @@
 		-- Random Number Generator
 		--
 		-- Standard
-		--
+		-- 
 		--  Chapter 7.1, Eq. 7.1.6
 		--  parameters from Knuth and H. W. Lewis
 
