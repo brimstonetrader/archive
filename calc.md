@@ -402,15 +402,15 @@
             > factorial n k = factorial (n-1) (k*n)
             >
             > choose :: Integer -> Integer -> Integer
-            > choose n k = ((factorial n 1) `div` ((factorial (n-k) 1)*(factorial k 1)))
+            > choose n k = (factorial n 1) `div` ((factorial (n-k) 1)*(factorial k 1))
             >
             > fall :: Integer -> Integer -> Integer
-            > fall n k = ((factorial n 1) `div` (factorial (n-k) 1))
+            > fall n k = (factorial n 1) `div` (factorial (n-k) 1)
             >
             > stir :: Integer -> Integer -> Integer
-            > stir n k = case (interpArith M.empty (sumHelper M.empty "i" 0 k (Bin Times (Bin Times (Bin Raise (Lit (Left (-1))) (Var "i")) (Bin Choose (Lit (Left k)) (Var "i"))) (Bin Raise (Bin Minus (Lit (Left k)) (Var "i")) (Lit (Left n)))))) of
-            >   Left _ -> 1000000012
-            >   Right x  -> (round ((1 / (realToFrac (factorial k 1))) * x))  
+            > stir n k =    if n==k then 1 
+            >   else if k==0 || k>n then 0 
+            >   else (k*(stir (n-1) k)) + (stir (n-1) (k-1)) 
             >
             > fibgen :: Double -> Double -> Integer -> Double
             > fibgen x _ 0 = x
