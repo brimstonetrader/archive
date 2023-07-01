@@ -52,16 +52,15 @@
 		> pcf a = if a<2 then 0 else if isPrime a then 1+(pcf (a-1)) else pcf (a-1)
 
 		-- mm.. quite slow, maybe that list could help.
+		> pcf1 :: Int -> Int
+		> pcf1 n = pcf2 n primesto10000
 
-		> totient :: Int -> Int
-		> totient n = totient2 n primesto10000
+		> pcf2 :: Int -> [Int] -> Int
+		> pcf2 n []     = pcf3 10000 n
+		> pcf2 n (p:ps) = if n<p then 0 else 1+(pcf2 n ps)
 
-		> totient2 :: Int -> [Int] -> Int
-		> totient2 n []     = totient3 10000 n
-		> totient2 n (p:ps) = if n<p then 0 else 1+(totient2 n ps)
-
-		> totient3 :: Int -> Int -> Int
-		> totient3 i n = if i>n then 0 else if isPrime i then 1+(totient3 (i+1) n) else totient3 (i+1) n
+		> pcf3 :: Int -> Int -> Int
+		> pcf3 i n = if i>n then 0 else if isPrime i then 1+(pcf3 (i+1) n) else pcf3 (i+1) n
 
 		ghci> totient 15000
 		1754
