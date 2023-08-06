@@ -10,7 +10,7 @@ mexavg(1) = 2, as the only possible set is [1].
 mexavg(2) = 2.25, four equally likely sets, [[1,1],[1,2],[2,1],[2,2]], have mexes of [2,3,3,1], which 
 averages to 2.25.
 
-I wrote a bit of code instead of analyzing the 27 3-cases by hand, with this data, as demonstrated below, 
+I wrote a bit of code instead of analyzing the 27 3-cases by hand. With this data, as demonstrated below, 
 I conjecture that this value approaches $e$.
 
 -  ghci> mexOfN 527987395 5
@@ -33,6 +33,12 @@ I conjecture that this value approaches $e$.
   
 	2.752382440243712
 
+ - ghci> mexOfN 527987395 160
+   
+        2.734229131674544
+   
+
+   
 		> inst :: Int -> Int
 		> inst r = ((1664525*r+1013904223) `mod` (2 ^ 32)) 
 
