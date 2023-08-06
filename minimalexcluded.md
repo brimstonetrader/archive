@@ -13,23 +13,23 @@ averages to 2.25.
 I wrote a bit of code instead of analyzing the 27 3-cases by hand, with this data, as demonstrated below, 
 I conjecture that this value approaches $e$.
 
-  ghci> mexOfN 527987395 5
+-  ghci> mexOfN 527987395 5
   
 	2.357142857142857
  
-  ghci> mexOfN 527987395 10
+-  ghci> mexOfN 527987395 10
   
 	2.6470588235294117
  
-  ghci> mexOfN 527987395 20
+-  ghci> mexOfN 527987395 20
   
 	2.7132169576059852
  
-  ghci> mexOfN 527987395 40
+ - ghci> mexOfN 527987395 40
   
 	2.748906933166771
  
-  ghci> mexOfN 527987395 80
+ - ghci> mexOfN 527987395 80
   
 	2.752382440243712
 
