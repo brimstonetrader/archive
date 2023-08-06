@@ -2,8 +2,8 @@ A quick one, for today.
 
 One of the big operations John Conway uses for Surreal Numbers and Game Theory is calculating the mex of 
 a set. This is short for "minimal excluded element". mex(1,5,7,2,3) = 4. It is quite simple. Let us ask a 
-reasonable question. What is the mex of a set of $n$ random numbers, selected from an interval from [1,$n$],
-inclusive. The first two cases are simple to work out by hand:
+reasonable question. What is the mex of a set of $n$ random numbers, selected from an interval spanning 
+from 1 to $n$, inclusive. The first two cases are simple to work out by hand:
 
 mexavg(1) = 2, as the only possible set is [1].
 
