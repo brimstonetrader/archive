@@ -1,4 +1,4 @@
-A quick one, for today.
+aA quick one, for today.
 
 One of the big operations John Conway uses for Surreal Numbers and Game Theory is calculating the mex of 
 a set. This is short for "minimal excluded element". mex(1,5,7,2,3) = 4. It is quite simple. Let us ask a 
@@ -11,7 +11,7 @@ mexavg(2) = 2.25, four equally likely sets, [[1,1],[1,2],[2,1],[2,2]], have mexe
 averages to 2.25.
 
 I wrote a bit of code instead of analyzing the 27 3-cases by hand. With this data, as demonstrated below, 
-I conjecture that this value approaches $e$.
+I conjecture that this value approaches $e$ for sufficiently large values of $n$.
 
 -  ghci> mexOfN 527987395 5
   
