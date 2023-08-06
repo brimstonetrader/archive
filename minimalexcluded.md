@@ -35,7 +35,7 @@ I conjecture that this value approaches $e$.
 
  - ghci> mexOfN 527987395 160
    
-        2.734229131674544
+ 	2.734229131674544
    
 
    
