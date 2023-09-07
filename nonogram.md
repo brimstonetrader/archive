@@ -21,8 +21,36 @@
 		>   let nrnd = inst ornd 
 		>   (nrnd : rng nrnd (it-1))
 
-		-- Has disappointingly small modular periods, but
-		-- an Int division of 99 seems to clean it up.
+		-- Has disappointingly small modular periods, so we must 
+  		-- make a better one.
+    
+		> bxor :: Int -> Int -> Int
+		> bxor a 0 = a
+		> bxor 0 b = b
+		> bxor a b = do
+		>   let (da,ma) = a `divMod` 2
+		>   let (db,mb) = b `divMod` 2
+		>   if ma == mb 
+		>     then 2*(bxor da db)
+		>     else 1+(2*(bxor da db))
+
+		> lfg :: Int -> Int -> [Int]
+		> lfg ornd it = lfg2 (rng ornd 55) it
+
+		> lfg2 :: [Int] -> Int -> [Int] 
+		> lfg2 seeds 0 = []
+		> lfg2 seeds i = do 
+		>   let nrnd   = (bxor (seeds !! ((len seeds)-24)) (head seeds)) `mod` (2^32)
+		>   (nrnd : lfg2 (nrnd : take 54 seeds) (i-1))
+	
+		> make :: Int -> Int -> Int -> IO ()
+		> make m n seed = make1 0 m n seed (lfg seed m)
+
+		> make1 :: Int -> Int -> Int -> Int -> [Int] -> IO ()
+		> make1 i m n o (s:seeds) = if i==m then putStr "" else do
+		>   unsPuzzle2 s n
+		>   putStr "\n"
+		>   make1 (i+1) m n o seeds
 
 		> listMod :: [Int] -> Int -> [Int]
 		> listMod [] _ = []
