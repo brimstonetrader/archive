@@ -3,11 +3,11 @@ for python. It has long been a problem of mine that long printed documents do no
 bookshelf, and I have long yearned for a method to do this, printing a book. Idk maybe if I had googled 
 it better I'd have found something. What you want to do is
 
-    > type PDF = [Page]
+    > type PDF = [Page]                            #[1,2,3,4,5,6,7,8]
 
-    > (pdfa, pdfb) = pdf.split(pdf.length() // 2)
-    > pdfc = pdfa.reverse() 
-    > weave(pdfc, pdfb)
+    > (pdfa, pdfb) = pdf.split(pdf.length() // 2)  #([1,2,3,4], [5,6,7,8]
+    > pdfc = pdfa.reverse()                        #[4,3,2,1]
+    > weave(pdfc, pdfb)                            #[4,5,6,3,2,7,8,1]
 
     > weave :: PDF -> PDF -> PDF
     > weave [] []         = []
