@@ -1,5 +1,4 @@
-Things are going well with our journalism game! Here's a brief survey of things that I've done, though other Disco Tray 
-developers have accomplished other things.
+Things are going well with our journalism game! Here's a brief survey of some of the more notable things that I've done so far.
 
 1. Initially, to exit the notebook or investigation area, one had to click on an "x". This is fine, but I made it so that
    pressing "Q" does the same thing in both contexts. This was a simple change to describe, but required rearranging a lot
@@ -10,8 +9,6 @@ developers have accomplished other things.
 
 6. In Unity, a GameObject that gets reused in many scenes can be set as a "Prefab", allowing for easier global changes. I
    did this for the protagonist, to help my animation changes, and allow for future work to be implemented more easily.
-
-8. I fixed a weird error where all NPCs prompted "Cannot use 'velocity' on a static body".
 
 9. Currently, the NPCs wander around the various towns according to a script that relies on "Waypoints". These are
    coordinates which are randomly cycled between, and the NPCs walk in straight lines from one to the next. I added this
