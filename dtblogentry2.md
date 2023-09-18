@@ -19,27 +19,13 @@ developers have accomplished other things.
 
 11. Initially, the game merely displayed the score on completion. I added a dictionary to the GameManager method which
     tracks the articles selected as true, and displays a single string containing all of them on the last page of the
-    journal, and on the screen where the player gets their score. This revealed a shortcoming with the scoring method that
-    I had not been able to notice up to now. The GameObjects holding the information have scores hardcoded, which do not
-    change with the information that gets put into it. This is what I am working on now.
+    journal, and on the screen where the player gets their score. This is what I am working on now, it is not fully
+    functional yet.
 
-12. Another future endeavor I plan for this game is fact-checking, allowing the user to select "how true" a piece of evidence
-    is along a gradient instead of as a boolean (True, Mostly True, Indeterminate, Mostly False, False).
-
-    A particular case that I think could be interesting is "Tenskwatawa's prophecy came true: the earthquake came when he
-    said it would, as punishment to the colonists for abusing Native American land". This is partially true, but not
-    totally so, and to accept every aspect of it blindly (while tempting) is not telling the full story. Dr. Hancock wrote
-    in his book of natural scientists of the time period who knew enough about the tectonic makeup of the area to recognize
-    that an earthquake was soon to happen. In my eyes, the statement holds partial literal truth, and shows a common
-    mentality of the time that was adopted for legitimate reasons, so to call it false or even indeterminate would be a
-    stretch, and would marginalize voices that we should not be encouraging the marginalization of. In short, maybe a
-    gradient could help to give people a better impression of what journalism feels like, and the methods I've implemented
-    would help with that. 
-
-    This would also allow for more NPCs, talking about the same issues from different perspectives. Currently, each piece
-    of evidence has one person advocating for or against it, but in journalism it is never advisable to report on the
-    general mood on an issue with only one source. 
-
+Some future endeavors that might be good for this game are fact-checking, allowing the user to select "how true" a piece of 
+evidence is along a gradient instead of as a boolean (True, Mostly True, Indeterminate, Mostly False, False). This would also 
+allow for more NPCs,  talking about the same issues from different perspectives. Currently, each piece of evidence has one 
+person advocating for or against it, but it is never advisable to report on the general mood on an issue with only one source. 
 
 
 
