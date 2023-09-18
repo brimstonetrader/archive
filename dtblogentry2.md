@@ -12,7 +12,7 @@ Things are going well with our journalism game! Here's a brief survey of some of
 
 9. Currently, the NPCs wander around the various towns according to a script that relies on "Waypoints". These are
    coordinates which are randomly cycled between, and the NPCs walk in straight lines from one to the next. I added this
-   script to the NPCs in the river scene, and feel confident working more with it if I need to.
+   script to the NPCs in a few scenes where they were still, arranging the waypoints.
 
 11. Initially, the game merely displayed the score on completion. I added a dictionary to the GameManager method which
     tracks the articles selected as true, and displays a single string containing all of them on the last page of the
