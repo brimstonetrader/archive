@@ -7,9 +7,6 @@ Things are going well with our journalism game! Here's a brief survey of some of
 4. I added animations for the main character, allowing for turning in all four directions, and a cute idle animation where
    he's writing in his notebook. In the future, we may want to animate NPCs, so this was a good refresher on that process.
 
-6. In Unity, a GameObject that gets reused in many scenes can be set as a "Prefab", allowing for easier global changes. I
-   did this for the protagonist, to help my animation changes, and allow for future work to be implemented more easily.
-
 9. Currently, the NPCs wander around the various towns according to a script that relies on "Waypoints". These are
    coordinates which are randomly cycled between, and the NPCs walk in straight lines from one to the next. I added this
    script to the NPCs in a few scenes where they were still, arranging the waypoints.
