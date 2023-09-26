@@ -24,7 +24,6 @@ pull this off quick in python.
     first_half_pdf = reversed(pdf_reader.pages[:mid])
     second_half_pdf = pdf_reader.pages[mid:]
     i = 1
-    # Reverse the first_half_pdf by iterating in reverse order and adding to pdf_writer
     for pagea,pageb in zip(first_half_pdf,second_half_pdf):
         if i%2:
             pdf_writer.add_page(pagea)
