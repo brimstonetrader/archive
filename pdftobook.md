@@ -17,14 +17,18 @@ If we did this to a pdf, you could fold the pages together nicely and make a boo
 pull this off quick in python. 
 
         import pypdf
-        pdf_in = open('compounds.pdf', 'rb')
+        pdf_in = open('in.pdf', 'rb')
         pdf_reader = pypdf.PdfReader(pdf_in)
         mid = len(pdf_reader.pages) // 2
-        first_half_pdf = reversed(pdf_reader.pages[:mid])
-        second_half_pdf = pdf_reader.pages[mid:]
+        b = (4 - (len(pdf_reader.pages) % 4)) % 4
+        first_half_pdf = reversed(pdf_reader.pages[b:(mid+b)]) 
+        second_half_pdf = pdf_reader.pages[(mid+b):]
         i = 1
         pdf_writer = pypdf.PdfWriter()
         # Reverse the first_half_pdf by iterating in reverse order and adding to pdf_writer
+        for c in range(b):
+            pdf_writer.add_page(pdf_reader.pages[c])
+            pdf_writer.add_blank_page()
         for pagea,pageb in zip(first_half_pdf,second_half_pdf):
             if i%2:
                 pdf_writer.add_page(pagea)
@@ -33,13 +37,9 @@ pull this off quick in python.
                 pdf_writer.add_page(pageb)
                 pdf_writer.add_page(pagea)
             i += 1
-        if len(pdf_writer.pages) + 1 % 2:
-            pdf_writer.add_page(pdf_reader.pages[-1])
-        while len(pdf_writer.pages) % 4 != 0:
-            pdf_writer.add_blank_page()
-        pdf_out = open('first (3).pdf', 'wb')
+        pdf_out = open('out.pdf', 'wb')
         pdf_writer.write(pdf_out)
         pdf_out.close()
         pdf_in.close()
-
+        
 Put the file in the same directory, put 2 pages to a sheet, and flip over the short edge.
