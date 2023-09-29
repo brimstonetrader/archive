@@ -16,25 +16,28 @@ pseudocode.
 If we did this to a pdf, you could fold the pages together nicely and make a book. It turns out you can 
 pull this off quick in python. 
 
-    import pypdf
-    pdf_in = open('monotile.pdf', 'rb')
-    pdf_reader = pypdf.PdfReader(pdf_in)
-    pdf_writer = pypdf.PdfWriter()
-    mid = len(pdf_reader.pages) // 2
-    first_half_pdf = reversed(pdf_reader.pages[:mid])
-    second_half_pdf = pdf_reader.pages[mid:]
-    i = 1
-    for pagea,pageb in zip(first_half_pdf,second_half_pdf):
-        if i%2:
-            pdf_writer.add_page(pagea)
-            pdf_writer.add_page(pageb)
-        else: 
-            pdf_writer.add_page(pageb)
-            pdf_writer.add_page(pagea)
-        i += 1
-    pdf_out = open('new.pdf', 'wb')
-    pdf_writer.write(pdf_out)
-    pdf_out.close()
-    pdf_in.close()
+        import pypdf
+        pdf_in = open('Continued_fraction.pdf', 'rb')
+        pdf_reader = pypdf.PdfReader(pdf_in)
+        mid = len(pdf_reader.pages) // 2
+        first_half_pdf = reversed(pdf_reader.pages[:mid])
+        second_half_pdf = pdf_reader.pages[mid:]
+        i = 1
+        pdf_writer = pypdf.PdfWriter()
+        # Reverse the first_half_pdf by iterating in reverse order and adding to pdf_writer
+        for pagea,pageb in zip(first_half_pdf,second_half_pdf):
+            if i%2:
+                pdf_writer.add_page(pagea)
+                pdf_writer.add_page(pageb)
+            else: 
+                pdf_writer.add_page(pageb)
+                pdf_writer.add_page(pagea)
+            i += 1
+        while len(pdf_writer.pages) % 4 != 0:
+            pdf_writer.add_blank_page()
+        pdf_out = open('first (4).pdf', 'wb')
+        pdf_writer.write(pdf_out)
+        pdf_out.close()
+        pdf_in.close()
     
 Put the file in the same directory, put 2 pages to a sheet, and flip over the short edge.
