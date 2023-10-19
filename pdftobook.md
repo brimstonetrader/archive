@@ -34,7 +34,7 @@ pull this off quick in python.
                 pdf_writer.add_page(pageb)
                 pdf_writer.add_page(pagea)
             i += 1
-        i = 0
+        i = 1
         for c in range(b):
             if i%2:
                 pdf_writer.add_page(pdf_reader.pages[b-c-1])
