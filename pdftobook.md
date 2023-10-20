@@ -37,11 +37,11 @@ pull this off quick in python.
         i = 1
         for c in range(b):
             if i%2:
-                pdf_writer.add_page(pdf_reader.pages[b-c-1])
                 pdf_writer.add_blank_page()
+                pdf_writer.add_page(pdf_reader.pages[b-c-1])
             else:
-                pdf_writer.add_blank_page()
                 pdf_writer.add_page(pdf_reader.pages[b-c-1])
+                pdf_writer.add_blank_page()
             i += 1
         pdf_out = open('lipu Linku (1).pdf', 'wb')
         pdf_writer.write(pdf_out)
