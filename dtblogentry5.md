@@ -1,5 +1,5 @@
-Alright, we've finished working on Ground Truth for now. Over the past month and a half, I've closed 25 issues, and at 
-this point this game is looking pretty good. Each town has at least two people commenting on any given topic, which can 
+Been a minute! We've finished working on Ground Truth for now. Over the past month and a half, I've closed 25 issues, and 
+at this point this game is looking pretty good. Each town has at least two people commenting on any given topic, which can
 be retrieved in the player character's notebook, or at the workdesk. I had a good time learning about the New Madrid 
 Earthquakes, Tecumseh (not Sherman, but the head of Prophetstown), and phlogiston. I feel that if I were a seventh grader
 who got to play this game in an Arkansas History class, I'd learn a lot about this particular topic, and more broadly 
