@@ -14,7 +14,7 @@ pseudocode.
     > weave (a:as) (b:bs) = a:b:(weave bs as)
 
 If we did this to a pdf, you could fold the pages together nicely and make a book. It turns out you can 
-pull this off quick in python. 
+pull this off quick in python. Flip on short edge.
 
         import pypdf
         pdf_in = open('aakj.pdf', 'rb')
@@ -47,3 +47,4 @@ pull this off quick in python.
         pdf_writer.write(pdf_out)
         pdf_out.close()
         pdf_in.close()
+
