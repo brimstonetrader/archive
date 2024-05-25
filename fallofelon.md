@@ -19,8 +19,8 @@ Elon Musk was born in 1971 to an English and Dutch family, in Pretoria, South Af
 Councilman father, publicly opposed the institution of apartheid, with one Musk biographer claiming this opposition 
 contributed to a young Elon's decision not to join the military, but to attend college in Canada, where his mother was 
 born. His family was wealthy: Elon's father helped to fund his first company, Zip2, a website that hosted city guides. 
-Musk's shares there were bought out in 1999, and he moved on to finance, co-founding X.com, an online bank, in March of 
-1999. After a year, this company merged with a larger, similar one called Confinity, forming a union called PayPal. Musk 
+Musk's shares there were bought out in 1999, and he moved on to finance, co-founding X.com, an online bank, in March of 1999. 
+After a year, this company merged with a larger, similar one called Confinity, forming a union called PayPal. Musk 
 was the chairman, and became the company's second ever CEO after Bill Harris was ousted a month in. This lasted around six
 months, after which point Elon was removed and replaced by his longtime foil/nemesis, Peter Thiel. Elon remained the 
 largest shareholder, owning over 10% of the company until it was bought in 2001 for $1.5 billion. 
