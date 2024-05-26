@@ -15,7 +15,7 @@ top 100 albums:
   1.  endtroducing..... - dj shadow
   1.  the life of pablo - kanye west
   1.  scaring the hoes - jpegmafia
-  1.  beach house - teen dream
+  1.  teen dream - beach house 
   1.  mount eerie - the microphones
   1.  dragon new warm mountain i believe in you - big thief
   1.  bury me at makeout creek - mitski
@@ -30,7 +30,7 @@ top 100 albums:
   1.  the powers that b - death grips
   1.  yeezus - kanye west
   1.  ants from up there - black country, new road
-  1.  sufjan stevens - illinois
+  1.  illinois - sufjan stevens
   1.  the moldy peaches - the moldy peaches
   1.  remain in light - talking heads
   1.  who will cut our hair when we're gone - the unicorns
@@ -59,7 +59,7 @@ top 100 albums:
   1.  the glow pt. 2 - the microphones
   1.  spiderland - slint
   1.  the mollusk - ween
-  1.  masked dancers: concern in so many things you forget where you are - the brave little abacus
+  1.  masked dancers - the brave little abacus
   1.  cavalcade - black midi
   1.  die lit - playboi carti
   1.  the lonesome crowded west - modest mouse
@@ -97,5 +97,5 @@ top 100 albums:
   1.  flotation toy warning - bluffer's guide to the flight deck
   1.  may god bless your hustle - mike 
   1.  geogaddi - boards of canada
-  1.  charlie brown christmas
+  1.  charlie brown christmas - vince guaraldi trio
   1.  kala - m.i.a.
