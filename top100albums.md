@@ -20,7 +20,7 @@ top 100 albums:
   1.  dragon new warm mountain i believe in you - big thief
   1.  bury me at makeout creek - mitski
   1.  some rap songs - earl sweatshirt
-  1.  first two seven inches - minor threat
+  1.  complete discography - minor threat
   1.  lp - jpegmafia
   1.  leak 04-13 (bait ones) - jai paul
   1.  diaspora problems - soul glo
