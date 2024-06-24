@@ -1,31 +1,32 @@
 top 100 albums:
   1.  veteran - jpegmafia
-  1.  my cute fiend sweet princess - kimya dawson
+  1.  remember that i love you - kimya dawson
   1.  nervous young man - car seat headrest
-  1.  rum sodomy and the lash - the pogues
   1.  exmilitary - death grips
+  1.  rum sodomy and the lash - the pogues
   1.  graduation - kanye west
   1.  cosmogramma - flying lotus
-  1.  remember that i love you - kimya dawson
   1.  double nickels on the dime - minutemen
-  1.  atrocity exhibition - danny brown
   1.  twin fantasy - car seat headrest 
-  1.  stratosphere - duster
   1.  the money store - death grips
   1.  endtroducing..... - dj shadow
+  1.  stratosphere - duster
+  1.  dragon new warm mountain i believe in you - big thief
+  1.  my cute fiend sweet princess - kimya dawson
+  1.  atrocity exhibition - danny brown
   1.  the life of pablo - kanye west
   1.  scaring the hoes - jpegmafia
   1.  teen dream - beach house 
   1.  mount eerie - the microphones
-  1.  dragon new warm mountain i believe in you - big thief
-  1.  bury me at makeout creek - mitski
-  1.  some rap songs - earl sweatshirt
-  1.  complete discography - minor threat
-  1.  lp - jpegmafia
-  1.  leak 04-13 (bait ones) - jai paul
-  1.  diaspora problems - soul glo
   1.  black ben carson - jpegmafia
   1.  unknown pleasures - joy divison
+  1.  bury me at makeout creek - mitski
+  1.  lp! - jpegmafia
+  1.  808s and heartbreaks - kanye west
+  1.  some rap songs - earl sweatshirt
+  1.  complete discography - minor threat
+  1.  leak 04-13 (bait ones) - jai paul
+  1.  diaspora problems - soul glo
   1.  bottomless pit - death grips
   1.  the powers that b - death grips
   1.  yeezus - kanye west
@@ -33,7 +34,7 @@ top 100 albums:
   1.  illinois - sufjan stevens
   1.  the moldy peaches - the moldy peaches
   1.  remain in light - talking heads
-  1.  who will cut our hair when we're gone - the unicorns
+  1.  who will cut our hair when were gone - the unicorns
   1.  buju & friends - buju banton
   1.  in the aeroplane over the sea - neutral milk hotel
   1.  selected ambient works - aphex twin 
@@ -44,6 +45,8 @@ top 100 albums:
   1.  good kid, m.a.a.d. city - kendrick lamar
   1.  depression cherry - beach house
   1.  horses - patti smith
+  1.  come in - weatherday
+  1.  XXX - danny brown
   1.  at folsom prison - johnny cash
   1.  los angeles - flying lotus 
   1.  1000 gecs - 100 gecs
@@ -58,6 +61,8 @@ top 100 albums:
   1.  stop making sense - talking heads 
   1.  the glow pt. 2 - the microphones
   1.  spiderland - slint
+  1.  teens of denial - car seat headrest 
+  1.  how to leave town - car seat headrest 
   1.  the mollusk - ween
   1.  masked dancers - the brave little abacus
   1.  cavalcade - black midi
@@ -82,20 +87,26 @@ top 100 albums:
   1.  song islands - the microphones
   1.  no love deep web - death grips
   1.  fear of music - talking heads
+  1.  plastic surgery disasters - dead kennedys 
+  1.  hidden vagenda - kimya dawson 
   1.  year of the snitch - death grips
   1.  volcanic bird enemy and the voiced concern - lil ugly mane 
   1.  strangers from the universe - thinking fellers union local 282
   1.  quebec - ween 
   1.  schlagenheim - black midi
-  1.  808s and heartbreaks - kanye west
-  1.  r plus seven - oneohtrix point never
+  1.  rifts - oneohtrix point never
   1.  the velvet underground and nico - the velvet underground
   1.  by the time i get to phoenix - injury reserve
   1.  IGOR - tyler the creator
   1.  lincoln - they might be giants
-  1.  everything based - lil b 
-  1.  flotation toy warning - bluffer's guide to the flight deck
-  1.  may god bless your hustle - mike 
-  1.  geogaddi - boards of canada
-  1.  charlie brown christmas - vince guaraldi trio
-  1.  kala - m.i.a.
+
+
+
+--   1.  everything based - lil b 
+--   1.  flotation toy warning - bluffer's guide to the flight deck
+--   1.  dont wake me up - the microphones 
+--   1.  may god bless your hustle - mike 
+--   1.  geogaddi - boards of canada
+--   1.  charlie brown christmas - vince guaraldi trio
+--   1.  kala - m.i.a.
+
